@@ -1,0 +1,13 @@
+
+# ===== Jupyter / Python =====
+.ipynb_checkpoints/
+
+# ===== Тяжёлые исходные данные =====
+source_data/simdata/
+source_data/Unique_Spectra/
+source_data/Unique_Spectra_dense/
+
+# ===== Обработанные данные =====
+processed_data/conv_dense_spectra/
+processed_data/DataSets/*.npz
+

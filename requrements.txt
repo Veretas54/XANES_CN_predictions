@@ -1,0 +1,23 @@
+# Из стандартной библиотеки
+# pathlib
+# warnings
+# abc
+# typing
+# copy
+# collections
+# itertools
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+torch
+networkx
+ase
+umap-learn
+catboost
+plotly
+tqdm
+import-ipynb
