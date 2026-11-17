@@ -334,7 +334,7 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone git clone https://github.com/Veretas54/XANES_CN_predictions.git
+git clone https://github.com/Veretas54/XANES_CN_predictions.git
 cd XANES_CN_predictions
 pip install -r requirements.txt
 ```
